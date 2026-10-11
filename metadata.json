@@ -1,0 +1,8 @@
+{
+  "name": "VozCraft Studio - Texto em Fala Ilimitado",
+  "description": "Estúdio profissional de Text-to-Speech (TTS) com nuances de fala (sussurro, forte, ênfase, drama), caracteres ilimitados, edição e reprodução 100% offline e exportação de áudio WAV e MP3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
